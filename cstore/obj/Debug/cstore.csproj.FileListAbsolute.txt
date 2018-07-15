@@ -1,7 +1,0 @@
-C:\Users\Brendan\source\repos\fluffy-octo-waddle\cstore\bin\Debug\cstore.exe.config
-C:\Users\Brendan\source\repos\fluffy-octo-waddle\cstore\bin\Debug\cstore.exe
-C:\Users\Brendan\source\repos\fluffy-octo-waddle\cstore\bin\Debug\cstore.pdb
-C:\Users\Brendan\source\repos\fluffy-octo-waddle\cstore\obj\Debug\cstore.csproj.CoreCompileInputs.cache
-C:\Users\Brendan\source\repos\fluffy-octo-waddle\cstore\obj\Debug\cstore.exe
-C:\Users\Brendan\source\repos\fluffy-octo-waddle\cstore\obj\Debug\cstore.pdb
-C:\Users\Brendan\source\repos\fluffy-octo-waddle\cstore\obj\Debug\cstore.csprojAssemblyReference.cache
