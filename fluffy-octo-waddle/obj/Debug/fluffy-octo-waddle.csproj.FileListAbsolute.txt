@@ -1,7 +1,0 @@
-C:\Users\Brendan\source\repos\fluffy-octo-waddle\fluffy-octo-waddle\bin\Debug\fluffy-octo-waddle.exe.config
-C:\Users\Brendan\source\repos\fluffy-octo-waddle\fluffy-octo-waddle\bin\Debug\fluffy-octo-waddle.exe
-C:\Users\Brendan\source\repos\fluffy-octo-waddle\fluffy-octo-waddle\bin\Debug\fluffy-octo-waddle.pdb
-C:\Users\Brendan\source\repos\fluffy-octo-waddle\fluffy-octo-waddle\obj\Debug\fluffy-octo-waddle.csprojAssemblyReference.cache
-C:\Users\Brendan\source\repos\fluffy-octo-waddle\fluffy-octo-waddle\obj\Debug\fluffy-octo-waddle.csproj.CoreCompileInputs.cache
-C:\Users\Brendan\source\repos\fluffy-octo-waddle\fluffy-octo-waddle\obj\Debug\fluffy-octo-waddle.exe
-C:\Users\Brendan\source\repos\fluffy-octo-waddle\fluffy-octo-waddle\obj\Debug\fluffy-octo-waddle.pdb

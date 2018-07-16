@@ -1,6 +1,0 @@
-C:\Users\Brendan\source\repos\fluffy-octo-waddle\BubbleSort\bin\Debug\BubbleSort.exe.config
-C:\Users\Brendan\source\repos\fluffy-octo-waddle\BubbleSort\bin\Debug\BubbleSort.exe
-C:\Users\Brendan\source\repos\fluffy-octo-waddle\BubbleSort\bin\Debug\BubbleSort.pdb
-C:\Users\Brendan\source\repos\fluffy-octo-waddle\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
-C:\Users\Brendan\source\repos\fluffy-octo-waddle\BubbleSort\obj\Debug\BubbleSort.exe
-C:\Users\Brendan\source\repos\fluffy-octo-waddle\BubbleSort\obj\Debug\BubbleSort.pdb
