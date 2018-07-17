@@ -1,7 +1,6 @@
 *.sln
 bin/
 obj/
-BubbleSort/
 .vs/
 
 # Credit to jayvdb for making github/gitignore/VisualStudio.gitignore
