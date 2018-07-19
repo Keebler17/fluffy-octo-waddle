@@ -12,11 +12,12 @@ namespace BubbleSort {
 			Console.WriteLine("\nSorting...");
 
 			for(int i = 0; i < list.Length; i++) {
-				for(int j = 0; j < list.Length; j++) {
-					if(list[i] < list[j]) {
-						swap = list[i];
-						list[i] = list[j];
+				for (int j = 0; j < list.Length-1; j++) {
+					if(list[j] > list[j+1]) {
+						swap = list[j + 1];
+						list[j + 1] = list[j];
 						list[j] = swap;
+						
 						for (int k = 0; k < list.Length; k++) {
 							Console.Write(list[k] + " ");
 						}
